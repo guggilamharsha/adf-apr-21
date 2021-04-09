@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "cars.csv",
-				"container": "input"
+				"container": "newc"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
